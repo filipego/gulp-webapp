@@ -1,0 +1,29 @@
+{
+  "name": "Gulp-Boilerplate",
+  "description": "Build your web app with Gulp",
+  "author": "Filipe Valente",
+  "license": "MIT",
+  "copyright": "2014",
+  "url": "https://github.com/filipego/gulp-webapp",
+  "keywords": [
+    "boilerplate",
+    "sass",
+    "livereload",
+    "gulp"
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp": "~3.6.0",
+    "rimraf": "~2.2.6",
+    "gulp-livereload": "~1.0.1",
+    "gulp-util": "~2.2.14",
+    "node-static": "~0.7.3",
+    "gulp-watch": "~0.5.0",
+    "gulp-compass": "^1.1.8",
+    "gulp-imagemin": "~0.1.5",
+    "gulp-concat": "~2.1.7",
+    "gulp-uglify": "~0.2.0",
+    "gulp-header": "~1.0.2",
+    "gulp-minify-css": "0.3.0"
+  }
+}
